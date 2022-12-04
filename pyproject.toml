@@ -20,3 +20,5 @@ build-backend = "poetry.core.masonry.api"
 2021_25 = 'advent_of_code.2021.day25.main:main'
 
 2022_1 = 'advent_of_code.2022.day1.main:main'
+2022_2 = 'advent_of_code.2022.day2.main:main'
+2022_3 = 'advent_of_code.2022.day3.main:main'
